@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53e68985-0b4b-4354-ae19-4d8e0d13ec79" />﻿# Algorithmvisualizer
-
 An interactive web-based platform for visualizing sorting and pathfinding algorithms through animated execution, performance metrics, and interactive graph construction.
 
 ## Features
