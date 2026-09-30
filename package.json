@@ -1,7 +1,7 @@
 {
-  "name": "algorithm-visualizer-backend",
-  "version": "1.0.0",
-  "description": "Backend for Algorithm Visualizer",
+  "name": "algorithm-visualizer",
+    "version": "1.0.0",
+"description": "Interactive sorting and pathfinding algorithm visualizer",
   "main": "server.js",
   "license": "MIT",
   "type": "commonjs",
